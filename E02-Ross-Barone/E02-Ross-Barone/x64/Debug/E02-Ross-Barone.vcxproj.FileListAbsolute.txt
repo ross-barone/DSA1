@@ -1,0 +1,3 @@
+C:\Users\emmyb\source\repos\DSA1\E02-Ross-Barone\E02-Ross-Barone\x64\Debug\E02-Ross-Barone.vcxproj.MdMergeInputs.cache
+C:\Users\emmyb\source\repos\DSA1\E02-Ross-Barone\E02-Ross-Barone\x64\Debug\E02-Ross-Barone.vcxproj.cppwinrt_plat.cache
+C:\Users\emmyb\source\repos\DSA1\E02-Ross-Barone\E02-Ross-Barone\x64\Debug\E02-Ross-Barone.vcxproj.cppwinrt_comp.cache
